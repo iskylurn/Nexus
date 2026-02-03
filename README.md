@@ -10,7 +10,9 @@
 | **Internet**      | 50+ Mbps |
 | **Ubuntu**      | Ubuntu 24 |
 
+
 -  https://app.nexus.xyz/nodes - Register on the site with your wallet and email at the top right.
+  
 
 -  ## 1. System Update & Dependencies : 
 
