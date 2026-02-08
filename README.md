@@ -43,7 +43,7 @@ git clone https://github.com/nexus-xyz/network-api.git
 cd network-api/clients/cli
 ```
 ## 4. Custom RAM & (The "Thread vs RAM" Math)
-Example you might have 32GB RAM and wonder: "Why can't i run 8 Threads?" The answer is the Default
+Example you might have 32GB RAM and wonder: "Why can't i run 8 Threads?" The answer is the default
 Reservation
 - Default: 1 Thread 4.29 GB = 8 Threads 34.32 GB
 - Custom: 1 Thread 2 GB = 8 Threads 16 GB
